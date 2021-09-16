@@ -1,2 +1,2 @@
 # senai-versoes-colaboracoes
-README.md de exemplo
+README.md de exemplo.
